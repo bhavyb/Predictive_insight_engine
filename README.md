@@ -215,7 +215,7 @@ Not everything was perfect, and I think it is better to say so.
 
 I recorded a screen and face video, explaining the concepts while running each cell.
 
-**Watch it here:** [PASTE YOUR GOOGLE DRIVE / YOUTUBE UNLISTED LINK HERE](https://)
+**Watch it here:** https://drive.google.com/drive/folders/13ZptKIJ9Z6UPyGJhK9-QuWieRMXT_WZg
 
 ---
 
