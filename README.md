@@ -175,7 +175,7 @@ def batch_gd(X, y, lr=0.1, epochs=200):
     theta = np.zeros(n)
     history = []
     for _ in range(epochs):
-        grad = (2 / m) * X.T @ (X @ theta - y)   # gradient using ALL samples
+        grad = (2 / m) * X.T @ (X @ theta - y)
         theta -= lr * grad
         history.append(mse_cost(X, y, theta))
     return theta, history
